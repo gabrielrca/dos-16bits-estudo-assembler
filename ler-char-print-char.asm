@@ -3,9 +3,6 @@
 ;ler-char-print.asm - programa de unico segmento de 16-bit que objetiva ler e 
 ;;printar o mesmo char que foi dado como input 
 ;
-;O objetivo desse programa é exemplificar a saída de dados através 
-;;da interrupçao 0x21
-;
 ;Compile o asm fazendo "c:\> nasm -f bin -o lerprint.com ler-char-print.asm"
 ;---------------------------------------------------------------------
 
